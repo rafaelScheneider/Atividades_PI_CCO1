@@ -1,0 +1,29 @@
+.container-exercicioB{
+    width: 99%;
+    height: 100px;
+    background-color: rgb(182, 182, 182);
+    margin: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
+}
+
+.divFilho1{
+    width: 100px;
+    height: 100px;
+}
+
+.divFilho2{
+    width: 100px;
+    height: 100px;
+}
+
+.divFilho3{
+    width: 100px;
+    height: 100px;
+}
+
+.divFilho4{
+    width: 100px;
+    height: 100px;
+}
